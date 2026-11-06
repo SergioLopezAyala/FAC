@@ -1,0 +1,15 @@
+[project]
+name = "fac-ship-detection"
+version = "0.1.0"
+requires-python = ">=3.11,<3.12"
+
+[tool.ruff]
+line-length = 110
+extend-exclude = ["refs/**", "runs/**", "data/**", "weights/**", "notebooks/**"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "NPY", "RUF"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["scripts"]
