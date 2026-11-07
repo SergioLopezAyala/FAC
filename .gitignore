@@ -6,6 +6,7 @@
 /weights/
 /Entrega_Context/
 /entrega.zip
+/envio_*.zip
 *.pt
 *.onnx
 *.tif
