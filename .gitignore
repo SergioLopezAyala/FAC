@@ -4,6 +4,7 @@
 /data/
 /runs/
 /weights/
+/Entrega_Context/
 *.pt
 *.onnx
 *.tif
