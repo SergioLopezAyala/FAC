@@ -5,6 +5,7 @@
 /runs/
 /weights/
 /Entrega_Context/
+/entrega.zip
 *.pt
 *.onnx
 *.tif
