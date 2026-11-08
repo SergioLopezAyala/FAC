@@ -17,4 +17,11 @@ __pycache__/
 .ruff_cache/
 .ipynb_checkpoints/
 .DS_Store
-.claude/settings.local.json
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+.claude*
+.mcp.json
+.superpowers/
+/best/
+/envio_mejor/
